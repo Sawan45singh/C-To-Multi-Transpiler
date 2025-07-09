@@ -24,5 +24,6 @@ Clear visualization of lexical and syntax analysis
 Supports basic C constructs: loops, conditionals, functions, expressions  
 Educational tool for understanding compiler design and language mapping  
 
-Command to run file -: npm run dev  
+# Command to run file -:  
+npm run dev  
 
